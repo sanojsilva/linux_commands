@@ -1,4 +1,4 @@
  ```
- touch filename.txt
+1.  touch filename.txt
  ```
- creates a text file with the name 'filename'
+ >creates a text file with the name 'filename'
