@@ -35,4 +35,12 @@
   <code>rm -Rf </code> <br />
   <div> Removes directories recursively </div>
  </li>
+  <li>
+  <code>mv name newName </code> <br />
+  <div> Renames the file 'name' to 'newName' </div>
+ </li>
+  <li>
+  <code>cat filename </code> <br />
+  <div> reads the content of the file 'filename' </div>
+ </li>
 </ol>
